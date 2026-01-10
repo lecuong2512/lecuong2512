@@ -29,7 +29,7 @@
   <br><br>
   <p>Tools & Environment</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,windows" />
   </a>
 </div>
 
