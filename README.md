@@ -18,40 +18,40 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AIResearcher:
-    def __init__(self):
-        self.name = "Le Cuong"
-        self.role = "AI/ML Researcher & Computer Vision Developer"
-        self.location = "Vietnam 🇻🇳"
-        self.expertise = {
-            "primary": ["Computer Vision", "Medical Imaging", "Deep Learning"],
-            "secondary": ["Software Quality Assurance", "Requirement Engineering"],
-            "interests": ["PC Hardware", "Mobile Chipsets", "Gaming"]
-        }
-        
-    def current_projects(self):
-        return [
-            "🏥 Medical Imaging - Chest X-ray Multi-label Classification",
-            "🔬 State-of-the-art Computer Vision Research",
-            "⚙️ Software Testing & Quality Assurance Automation"
-        ]
-    
-    def hobbies(self):
-        return ["📱 Tech Reviews", "🎮 PC Gaming", "📚 Manhwa (Regression/Isekai)"]
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-me = AIResearcher()
-```
+- 🎓 **AI/ML Researcher** specializing in **Computer Vision** and **Medical Imaging**
+- 🏥 Currently working on **Chest X-ray Multi-label Classification** using deep learning
+- 🔬 Passionate about implementing **state-of-the-art** models and research papers
+- ⚙️ Experienced in **Software Quality Assurance** and **Requirement Engineering**
+- 🎮 Tech enthusiast who loves **PC Hardware**, **Mobile Chipsets**, and **Gaming**
+- 📚 Avid **Manhwa** reader (Regression/Isekai genres are my favorites!)
+- 🌱 Currently learning **MLOps**, **Transformer Architectures**, and **Edge AI**
+- 💡 Always exploring new technologies and optimization techniques
+
+<br clear="right"/>
 
 <details>
-<summary>📌 <b>More About My Work</b></summary>
+<summary>📌 <b>More About My Expertise</b></summary>
 <br>
 
-- 🔭 **Current Focus**: Developing advanced deep learning models for medical image analysis
-- 🎯 **Research Interests**: Computer Vision, Medical AI, Transfer Learning, Model Optimization
-- 🌱 **Learning**: Advanced MLOps, Transformer Architectures, Edge AI Deployment
-- 💼 **Professional Skills**: Software Testing, QA Automation, Requirements Analysis
-- 🎲 **Fun Facts**: Benchmark enthusiast, love comparing Snapdragon vs MediaTek chipsets
+**🔬 Research & Development:**
+- Medical Image Analysis (X-ray, CT, MRI)
+- Object Detection & Segmentation
+- Transfer Learning & Model Fine-tuning
+- Neural Architecture Search
+
+**💻 Software Engineering:**
+- Test Automation with Selenium
+- Quality Assurance Processes
+- Requirements Analysis & Documentation
+- Agile/Scrum Methodologies
+
+**🎯 Current Goals:**
+- Publish research in top-tier conferences
+- Deploy AI models to production environments
+- Contribute to open-source ML projects
+- Build a comprehensive tech review channel
 
 </details>
 
