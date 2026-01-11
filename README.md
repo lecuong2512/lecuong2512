@@ -103,20 +103,22 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lecuong2512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=e5e7eb&rank_icon=github" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecuong2512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=e5e7eb&langs_count=8" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lecuong2512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=e5e7eb&rank_icon=github" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecuong2512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=e5e7eb&langs_count=8" height="180" alt="Top Languages" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lecuong2512&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=ec4899&currStreakLabel=e5e7eb" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lecuong2512&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=ec4899&currStreakLabel=e5e7eb" alt="GitHub Streak" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lecuong2512&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -171,13 +173,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 🎵 Spotify Playing
-[![Spotify](https://novatorem-lecuong2512.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
-</div>
 
 ---
 
