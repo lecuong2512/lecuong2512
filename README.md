@@ -1,16 +1,22 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E96443,50:904E95,100:2E3192&height=280&section=header&text=Le%20Cuong&fontSize=90&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20Computer%20Vision%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=52&descAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:2980b9&height=300&section=header&text=Le%20Viet%20Cuong&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Medical%20Imaging&descAlignY=55&descAlign=50&fontColor=ffffff)
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Researcher+%F0%9F%A7%A0;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Medical+Imaging+Expert+%F0%9F%A9%BA;Software+Quality+Engineer+%E2%9C%85;Tech+%26+Gaming+Enthusiast+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hello+World!+%F0%9F%91%8B;Software+Engineering+Student+%40+ICTU+%F0%9F%8E%93;Focusing+on+Computer+Vision+%26+Deep+Learning+%F0%9F%A7%A0;Building+Hybrid+CNN-ViT+Models+%F0%9F%8F%A5;Always+Learning+and+Creating!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=lecuong2512&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lecuong2512)
-[![GitHub followers](https://img.shields.io/github/followers/lecuong2512?style=for-the-badge&color=8b5cf6)](https://github.com/lecuong2512?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/lecuong2512?style=for-the-badge&color=ec4899)](https://github.com/lecuong2512?tab=repositories)
+<a href="https://github.com/lecuong2512">
+  <img src="https://komarev.com/ghpvc/?username=lecuong2512&color=0ea5e9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/lecuong2512?tab=followers">
+  <img src="https://img.shields.io/github/followers/lecuong2512?style=for-the-badge&color=8b5cf6" alt="Followers" />
+</a>
+<a href="https://github.com/lecuong2512?tab=repositories">
+  <img src="https://img.shields.io/github/stars/lecuong2512?style=for-the-badge&color=ec4899" alt="Stars" />
+</a>
+
+<br/>
+
+[![trophy](https://github-profile-trophies.vercel.app/?username=lecuong2512&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophies)
 
 </div>
 
@@ -18,135 +24,107 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding Animation" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **AI/ML Researcher** specializing in **Computer Vision** and **Medical Imaging**
-- 🏥 Currently working on **Chest X-ray Multi-label Classification** using deep learning
-- 🔬 Passionate about implementing **state-of-the-art** models and research papers
-- ⚙️ Experienced in **Software Quality Assurance** and **Requirement Engineering**
-- 🎮 Tech enthusiast who loves **PC Hardware**, **Mobile Chipsets**, and **Gaming**
-- 📚 Avid **Manhwa** reader (Regression/Isekai genres are my favorites!)
-- 🌱 Currently learning **MLOps**, **Transformer Architectures**, and **Edge AI**
-- 💡 Always exploring new technologies and optimization techniques
+I'm **Le Viet Cuong**, a final-year **Software Engineering student** at **ICTU** with a deep passion for Artificial Intelligence. My journey involves bridging the gap between software engineering and advanced deep learning research.
+
+- 🔭 **Current Project:** I'm developing a **Multi-label Chest X-ray Classification System** using a hybrid **CNN-ViT** architecture (combining ConvNeXtV2 & SwinV2).
+- 🎓 **Education:** Maintaining a **GPA of 3.48/4.0** while actively researching Medical AI.
+- 📜 **Certification:** Completed **Samsung Innovation Campus** (Artificial Intelligence).
+- 💻 **Hardware & Gaming:** I'm a tech enthusiast who loves analyzing **PC Hardware**, **Mobile Chipsets** (Snapdragon vs. the world!), and gaming strategically.
+- 📚 **Reading:** Avid fan of **Manhwa** (Webcomics) – ask me about *Regression* or *Isekai* titles!
+- ⚡ **Fun fact:** I can debug Java code and build a custom PC loop... possibly at the same time.
 
 <br clear="right"/>
 
-<details>
-<summary>📌 <b>More About My Expertise</b></summary>
-<br>
-
-**🔬 Research & Development:**
-- Medical Image Analysis (X-ray, CT, MRI)
-- Object Detection & Segmentation
-- Transfer Learning & Model Fine-tuning
-- Neural Architecture Search
-
-**💻 Software Engineering:**
-- Test Automation with Selenium
-- Quality Assurance Processes
-- Requirements Analysis & Documentation
-- Agile/Scrum Methodologies
-
-**🎯 Current Goals:**
-- Publish research in top-tier conferences
-- Deploy AI models to production environments
-- Contribute to open-source ML projects
-- Build a comprehensive tech review channel
-
-</details>
-
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧠 AI & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🤖 AI/ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 💻 Core Engineering
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🧰 Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🧪 Testing & QA
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+### ⚙️ Tools & Platforms
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 💾 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
-### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/lecuong2512">
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=lecuong2512&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="Cuong's Stats" />
+</a>
+
+<a href="https://github.com/lecuong2512">
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecuong2512&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</a>
+
+<br clear="both"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lecuong2512&theme=radical&hide_border=true&stroke=000000&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8" alt="Streak Stats" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Featured Academic Project
+
+### 🩻 Hybrid CNN-ViT for Medical Imaging
+> *Developing a robust solution for multi-label classification on Chest X-ray datasets.*
+
+* **Objective:** Enhance diagnostic accuracy by combining the local feature extraction of **CNNs (ConvNeXtV2)** with the global context understanding of **Vision Transformers (SwinV2)**.
+* **Tech Stack:** PyTorch, CUDA, Albumentations.
+* **Status:** Research & Optimization phase.
+
+---
+
+## 📫 Connect with Me
 
 <div align="center">
 
-| 🎯 Focus Area | 📌 Highlights |
-|--------------|--------------|
-| 🧠 **AI/ML** | Medical Imaging, Computer Vision, Deep Learning |
-| 💻 **Software** | Python, Java, C++ Development |
-| 🧪 **Testing** | Selenium Automation, QA Processes |
-| 🎓 **Research** | State-of-the-art Model Implementation |
-| 🎮 **Hardware** | PC Building, Chipset Analysis |
+<a href="mailto:levietcuong2035@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/lecuong2512">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<br/>
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 
 </div>
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2980b9,100:2c3e50&height=120&section=footer)
 
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😄 Random Dev Joke
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-
-</div>
-
----
-
----
-
-<div align="center">
-
-**⭐️ From [lecuong2512](https://github.com/lecuong2512) | Made with 💜 and ☕**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E96443,50:904E95,100:2E3192&height=150&section=footer)
+**© 2025 Le Viet Cuong. Made with 💻 and ☕ in Thai Nguyen, Vietnam.**
 
 </div>
