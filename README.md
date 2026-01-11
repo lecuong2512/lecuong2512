@@ -111,7 +111,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lecuong2512&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=ec4899&currStreakLabel=e5e7eb&cache_seconds=0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lecuong2512&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=ec4899&currStreakLabel=e5e7eb" alt="GitHub Streak" />
 </div>
 
 ---
