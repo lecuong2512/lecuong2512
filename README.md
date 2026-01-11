@@ -100,22 +100,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lecuong2512&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=e5e7eb&rank_icon=github&cache_seconds=0" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecuong2512&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=e5e7eb&langs_count=8&cache_seconds=0" height="180" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lecuong2512&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=ec4899&currStreakLabel=e5e7eb" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 Achievements & Highlights
 
 <div align="center">
