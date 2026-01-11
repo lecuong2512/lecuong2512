@@ -66,27 +66,6 @@ I'm **Le Viet Cuong**, a final-year **Software Engineering student** at **ICTU**
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/lecuong2512">
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=lecuong2512&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="Cuong's Stats" />
-</a>
-
-<a href="https://github.com/lecuong2512">
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecuong2512&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</a>
-
-<br clear="both"/>
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lecuong2512&theme=radical&hide_border=true&stroke=000000&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8" alt="Streak Stats" />
-
-</div>
-
----
-
 ## 🏆 Featured Academic Project
 
 ### 🩻 Hybrid CNN-ViT for Medical Imaging
